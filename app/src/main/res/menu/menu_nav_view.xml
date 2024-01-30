@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/animales"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:title="Animales"
+        />
+    <item
+        android:id="@+id/personas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Personas"
+        />
+    <item
+        android:id="@+id/comida"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Comida"
+        />
+    <item
+        android:id="@+id/reiniciar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Reiniciar"
+        />
+</menu>
